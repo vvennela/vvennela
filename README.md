@@ -1,6 +1,7 @@
 ### Hiya! My name is Vishnu! 🤭
 
 I'm a new grad from UC Davis with a degree in Computer Science. 
+
 Try out some of my projects under the repository tab 😃😃
 
 - 🤠 Currently working on Mad Midas, my algorithmic trading bot!
