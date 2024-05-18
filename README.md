@@ -1,13 +1,16 @@
-### Hiya! My name is Vishnu! 🤭
+### Hey! My name is Vishnu! 🤭
 
-I'm a new grad from UC Davis with a degree in Computer Science. 
+I graduated from UC Davis in 2023 with a degree in Computer Science and I'm currently a developer @ Fresno 
+County working on supporting the Department of Social Services.
 
 Try out some of my projects under the repository tab 😃😃
 
-- 🤠 Currently working on Mad Midas, my algorithmic trading bot!
-- 😤 Learning about AI/ML and their applications, specifically through LLM integrations!
+- 🔭 Currently Working on enterprise grade LLM & RAG applications. 
+- 😤 Learning about AI/ML and their applications, specifically the theoretical research behind it. 
 - 🤩 Looking to work on exciting projects with exciting people, especially in the AI/ML space.
-- 🦾 You can reach me at vishnupratikvennelakanti at gmail dot com.
+- 🦾 You can reach me at vishnupratikvennelakanti [at] gmail [dot] com.
+
+I'm a big fan of chess and 4X games so if you'd like to play please reach out! 
   
 
 <!--
