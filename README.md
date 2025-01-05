@@ -8,6 +8,7 @@ Try out some of my projects under the repository tab 😃😃
 - 🔭 Currently Working on enterprise grade LLM & RAG applications. 
 - 😤 Learning about AI/ML and their applications, specifically the theoretical research behind it. 
 - 🤩 Looking to work on exciting projects with exciting people, especially in the AI/ML space.
+- Working on solving imperfect games with artificial reasoning! 
 - 🦾 You can reach me at vishnupratikvennelakanti [at] gmail [dot] com.
 
 I'm a big fan of chess and 4X games so if you'd like to play please reach out! 
