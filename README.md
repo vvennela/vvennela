@@ -6,7 +6,7 @@ County working on supporting the Department of Social Services.
 Try out some of my projects under the repository tab 😃😃
 
 - 🔭 Currently Working on enterprise grade LLM & RAG applications. 
-- 😤 Learning about AI/ML and their applications, specifically the theoretical research behind it. 
+- 😤 Reading and researching NLP! 
 - 🤩 Looking to work on exciting projects with exciting people, especially in the AI/ML space.
 - Working on solving imperfect games with artificial reasoning! 
 - 🦾 You can reach me at vishnupratikvennelakanti [at] gmail [dot] com.
