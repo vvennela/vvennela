@@ -1,12 +1,14 @@
 ### I'm a dev. 
 
 Working on ML stuff. In the past I've shipped:
-1. real time news translator and trader
-2. a tool for building medical chronologies accurately, deterministically and speedily 
-3. a bunch of RAG
+1. some trading applications.
+2. some legal tooling.
+3. some rag services.
 4. some cool ML research work.
-5. some secret stuff. 
-  
+5. some defi infra.
+6. some secret stuff.
+
+vishnupratikvennelakanti@gmail.com
 
 <!--
 **vvennela/vvennela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
