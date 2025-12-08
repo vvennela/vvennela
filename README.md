@@ -1,6 +1,6 @@
 ### I'm a dev. 
 
-Working on ML stuff. In the past I've shipped:
+Working on ML. In the past I've shipped:
 1. some trading applications.
 2. some legal tooling.
 3. some rag services.
