@@ -1,17 +1,11 @@
-### Hey! My name is Vishnu! 🤭
+### I'm a dev. 
 
-I graduated from UC Davis in 2023 with a degree in Computer Science and I'm currently a developer @ Fresno 
-County working on supporting the Department of Social Services.
-
-Try out some of my projects under the repository tab 😃😃
-
-- 🔭 Currently Working on enterprise grade LLM & RAG applications. 
-- 😤 Reading and researching NLP! 
-- 🤩 Looking to work on exciting projects with exciting people, especially in the AI/ML space.
-- Working on solving imperfect games with artificial reasoning! 
-- 🦾 You can reach me at vishnupratikvennelakanti [at] gmail [dot] com.
-
-I'm a big fan of chess and 4X games so if you'd like to play please reach out! 
+Working on ML stuff. In the past I've shipped:
+1. real time news translator and trader
+2. a tool for building medical chronologies accurately, deterministically and speedily 
+3. a bunch of RAG
+4. some cool ML research work.
+5. some secret stuff. 
   
 
 <!--
