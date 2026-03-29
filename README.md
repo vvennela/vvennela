@@ -1,12 +1,6 @@
 ### I'm a dev. 
 
-Working on ML. In the past I've shipped:
-1. some trading applications.
-2. some legal tooling.
-3. some rag services.
-4. some cool ML research work.
-5. some defi infra.
-6. some secret stuff.
+Working on FTL and Blackboard, my research project. 
 
 vishnupratikvennelakanti@gmail.com
 
