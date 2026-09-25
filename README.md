@@ -1,6 +1,6 @@
 ### I'm a dev. 
 
-Working on FTL and Blackboard, my research project. 
+I'm a high velocity generalist. Working on tons of different things. 
 
 vishnupratikvennelakanti@gmail.com
 
